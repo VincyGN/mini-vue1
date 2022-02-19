@@ -1,0 +1,21 @@
+{
+  "name": "mini-vue1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:VincyGN/mini-vue1.git",
+  "author": "vincy <gnclaire0022@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-jest": "^27.5.1"
+  }
+}
